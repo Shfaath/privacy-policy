@@ -16,7 +16,7 @@ This app is **not directed at children under 13** and does not knowingly collect
 
 ## Contact
 If you have any questions or concerns about this privacy policy, please contact us at:  
-📧 **support@softoweb.com**
+📧 **contact@softoweb.com**
 
 _Last updated: September 19, 2025_
 
